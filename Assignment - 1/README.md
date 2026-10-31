@@ -1,19 +1,16 @@
-# Assignment - 1
+# Assignment - 2
 
-## Programs included
+Python implementation files:
 
-1. `division_algorithm.py` — calculates quotient and remainder using the Division Algorithm and verifies the result.
-2. `euclidean_algorithm.py` — calculates the greatest common divisor (GCD) using the Euclidean Algorithm.
-3. `modular_arithmetic.py` — performs modular addition, subtraction, multiplication and exponentiation.
+- `eulers_totient.py`
+- `fermats_little_theorem.py`
+- `relative_prime.py`
+- `primality_test.py`
+- `multiplicative_inverse.py`
+- `chinese_remainder_theorem.py`
 
-## How to run
-
-Use Python 3. Open a terminal in this folder and run each file:
+Run a program with Python 3, for example:
 
 ```bash
-python division_algorithm.py
-python euclidean_algorithm.py
-python modular_arithmetic.py
+python eulers_totient.py
 ```
-
-Each program asks for input and prints the result.
